@@ -7,9 +7,9 @@ namespace HelloConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Console...!");
-            Console.WriteLine("A");
-            Console.WriteLine("B");
-            Console.WriteLine("C");
+            Console.WriteLine("1");
+            Console.WriteLine("2");
+            Console.WriteLine("3");
         }
     }
 }
